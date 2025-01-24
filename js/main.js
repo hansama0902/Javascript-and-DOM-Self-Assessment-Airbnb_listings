@@ -16,7 +16,7 @@ function MainModule(listingsID = "#listings") {
           <p><strong>Price:</strong> ${listing.price}</p>
           <p><strong>Description:</strong> ${listing.description || "No description available"}</p>
           <div class="host-info">
-            <img src="${listing.host_thumbnail_url || "https://via.placeholder.com/50"}" alt="Host Photo" class="host-photo" />
+            <img src="${listing.host_thumbnail_url || "https://placeholder.com/150"}" alt="Host Photo" class="host-photo" />
             <p><strong>Host:</strong> ${listing.host_name || "Unknown"}</p>
           </div>
           <p><strong>Neighborhood:</strong> ${listing.neighbourhood_overview || "Not specified"}</p>
