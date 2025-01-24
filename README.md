@@ -21,13 +21,13 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/hansama0902/Web-Developmen_MineMarket_Project1.git
+   git clone https://github.com/hansama0902/Javascript-and-DOM-Self-Assessment-Airbnb_listings.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd Web-Developmen_MineMarket_Project1
+   cd Javascript-and-DOM-Self-Assessment-Airbnb_listings
    ```
 
 3. **Install Dependencies (if applicable)**
