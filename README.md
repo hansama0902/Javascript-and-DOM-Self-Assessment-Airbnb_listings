@@ -58,7 +58,7 @@
 
 ### View the project
 
-Visit the live project at: [Airbnb_listings](https://hansama0902.github.io/Javascript-and-DOM-Self-Assessment-Airbnb_listings/)
+Visit the live project at: [Airbnb listings](https://hansama0902.github.io/Javascript-and-DOM-Self-Assessment-Airbnb_listings/)
 
 
 ## License
